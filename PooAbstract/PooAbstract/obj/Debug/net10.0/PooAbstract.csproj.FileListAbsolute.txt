@@ -1,0 +1,14 @@
+C:\Temp\c#\PooAbstract\PooAbstract\bin\Debug\net10.0\PooAbstract.exe
+C:\Temp\c#\PooAbstract\PooAbstract\bin\Debug\net10.0\PooAbstract.deps.json
+C:\Temp\c#\PooAbstract\PooAbstract\bin\Debug\net10.0\PooAbstract.runtimeconfig.json
+C:\Temp\c#\PooAbstract\PooAbstract\bin\Debug\net10.0\PooAbstract.dll
+C:\Temp\c#\PooAbstract\PooAbstract\bin\Debug\net10.0\PooAbstract.pdb
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.AssemblyInfoInputs.cache
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.AssemblyInfo.cs
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.csproj.CoreCompileInputs.cache
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.dll
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\refint\PooAbstract.dll
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.pdb
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\PooAbstract.genruntimeconfig.cache
+C:\Temp\c#\PooAbstract\PooAbstract\obj\Debug\net10.0\ref\PooAbstract.dll

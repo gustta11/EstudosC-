@@ -1,0 +1,14 @@
+C:\Temp\c#\aulaForEach\aulaForEach\bin\Debug\net10.0\aulaForEach.exe
+C:\Temp\c#\aulaForEach\aulaForEach\bin\Debug\net10.0\aulaForEach.deps.json
+C:\Temp\c#\aulaForEach\aulaForEach\bin\Debug\net10.0\aulaForEach.runtimeconfig.json
+C:\Temp\c#\aulaForEach\aulaForEach\bin\Debug\net10.0\aulaForEach.dll
+C:\Temp\c#\aulaForEach\aulaForEach\bin\Debug\net10.0\aulaForEach.pdb
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.AssemblyInfoInputs.cache
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.AssemblyInfo.cs
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.csproj.CoreCompileInputs.cache
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.dll
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\refint\aulaForEach.dll
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.pdb
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\aulaForEach.genruntimeconfig.cache
+C:\Temp\c#\aulaForEach\aulaForEach\obj\Debug\net10.0\ref\aulaForEach.dll

@@ -1,0 +1,14 @@
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.AssemblyInfoInputs.cache
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.AssemblyInfo.cs
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.csproj.CoreCompileInputs.cache
+C:\Temp\c#\arrayAula\arrayAula\bin\Debug\net10.0\arrayAula.exe
+C:\Temp\c#\arrayAula\arrayAula\bin\Debug\net10.0\arrayAula.deps.json
+C:\Temp\c#\arrayAula\arrayAula\bin\Debug\net10.0\arrayAula.runtimeconfig.json
+C:\Temp\c#\arrayAula\arrayAula\bin\Debug\net10.0\arrayAula.dll
+C:\Temp\c#\arrayAula\arrayAula\bin\Debug\net10.0\arrayAula.pdb
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.dll
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\refint\arrayAula.dll
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.pdb
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\arrayAula.genruntimeconfig.cache
+C:\Temp\c#\arrayAula\arrayAula\obj\Debug\net10.0\ref\arrayAula.dll

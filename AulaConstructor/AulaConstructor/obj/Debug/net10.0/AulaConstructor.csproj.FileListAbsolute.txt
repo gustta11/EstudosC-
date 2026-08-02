@@ -1,0 +1,14 @@
+C:\Temp\c#\AulaConstructor\AulaConstructor\bin\Debug\net10.0\AulaConstructor.exe
+C:\Temp\c#\AulaConstructor\AulaConstructor\bin\Debug\net10.0\AulaConstructor.deps.json
+C:\Temp\c#\AulaConstructor\AulaConstructor\bin\Debug\net10.0\AulaConstructor.runtimeconfig.json
+C:\Temp\c#\AulaConstructor\AulaConstructor\bin\Debug\net10.0\AulaConstructor.dll
+C:\Temp\c#\AulaConstructor\AulaConstructor\bin\Debug\net10.0\AulaConstructor.pdb
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.AssemblyInfoInputs.cache
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.AssemblyInfo.cs
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.csproj.CoreCompileInputs.cache
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.dll
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\refint\AulaConstructor.dll
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.pdb
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\AulaConstructor.genruntimeconfig.cache
+C:\Temp\c#\AulaConstructor\AulaConstructor\obj\Debug\net10.0\ref\AulaConstructor.dll

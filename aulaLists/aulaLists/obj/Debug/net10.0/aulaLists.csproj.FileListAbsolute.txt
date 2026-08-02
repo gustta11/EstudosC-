@@ -1,0 +1,14 @@
+C:\Temp\c#\aulaLists\aulaLists\bin\Debug\net10.0\aulaLists.exe
+C:\Temp\c#\aulaLists\aulaLists\bin\Debug\net10.0\aulaLists.deps.json
+C:\Temp\c#\aulaLists\aulaLists\bin\Debug\net10.0\aulaLists.runtimeconfig.json
+C:\Temp\c#\aulaLists\aulaLists\bin\Debug\net10.0\aulaLists.dll
+C:\Temp\c#\aulaLists\aulaLists\bin\Debug\net10.0\aulaLists.pdb
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.AssemblyInfoInputs.cache
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.AssemblyInfo.cs
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.csproj.CoreCompileInputs.cache
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.dll
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\refint\aulaLists.dll
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.pdb
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\aulaLists.genruntimeconfig.cache
+C:\Temp\c#\aulaLists\aulaLists\obj\Debug\net10.0\ref\aulaLists.dll

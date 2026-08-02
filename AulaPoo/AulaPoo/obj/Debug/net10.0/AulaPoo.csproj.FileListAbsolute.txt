@@ -1,0 +1,14 @@
+C:\Temp\c#\AulaPoo\AulaPoo\bin\Debug\net10.0\AulaPoo.exe
+C:\Temp\c#\AulaPoo\AulaPoo\bin\Debug\net10.0\AulaPoo.deps.json
+C:\Temp\c#\AulaPoo\AulaPoo\bin\Debug\net10.0\AulaPoo.runtimeconfig.json
+C:\Temp\c#\AulaPoo\AulaPoo\bin\Debug\net10.0\AulaPoo.dll
+C:\Temp\c#\AulaPoo\AulaPoo\bin\Debug\net10.0\AulaPoo.pdb
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.AssemblyInfoInputs.cache
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.AssemblyInfo.cs
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.csproj.CoreCompileInputs.cache
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.dll
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\refint\AulaPoo.dll
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.pdb
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\AulaPoo.genruntimeconfig.cache
+C:\Temp\c#\AulaPoo\AulaPoo\obj\Debug\net10.0\ref\AulaPoo.dll

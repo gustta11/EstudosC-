@@ -1,0 +1,14 @@
+C:\Temp\c#\PooHeranca\PooHeranca\bin\Debug\net10.0\PooHeranca.exe
+C:\Temp\c#\PooHeranca\PooHeranca\bin\Debug\net10.0\PooHeranca.deps.json
+C:\Temp\c#\PooHeranca\PooHeranca\bin\Debug\net10.0\PooHeranca.runtimeconfig.json
+C:\Temp\c#\PooHeranca\PooHeranca\bin\Debug\net10.0\PooHeranca.dll
+C:\Temp\c#\PooHeranca\PooHeranca\bin\Debug\net10.0\PooHeranca.pdb
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.AssemblyInfoInputs.cache
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.AssemblyInfo.cs
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.csproj.CoreCompileInputs.cache
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.dll
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\refint\PooHeranca.dll
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.pdb
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\PooHeranca.genruntimeconfig.cache
+C:\Temp\c#\PooHeranca\PooHeranca\obj\Debug\net10.0\ref\PooHeranca.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\c#\\AulaConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD68A38-546D-C02E-A181-17C86698193F}|AulaConstructor\\AulaConstructor.csproj|c:\\temp\\c#\\aulaconstructor\\aulaconstructor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD68A38-546D-C02E-A181-17C86698193F}|AulaConstructor\\AulaConstructor.csproj|solutionrelative:aulaconstructor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD68A38-546D-C02E-A181-17C86698193F}|AulaConstructor\\AulaConstructor.csproj|c:\\temp\\c#\\aulaconstructor\\aulaconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD68A38-546D-C02E-A181-17C86698193F}|AulaConstructor\\AulaConstructor.csproj|solutionrelative:aulaconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\AulaConstructor\\AulaConstructor\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AulaConstructor\\Pessoa.cs",
+              "ToolTip": "C:\\Temp\\c#\\AulaConstructor\\AulaConstructor\\Pessoa.cs",
+              "RelativeToolTip": "AulaConstructor\\Pessoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T20:20:13.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\AulaConstructor\\AulaConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "AulaConstructor\\Program.cs",
+              "ToolTip": "C:\\Temp\\c#\\AulaConstructor\\AulaConstructor\\Program.cs",
+              "RelativeToolTip": "AulaConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T20:18:51.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
