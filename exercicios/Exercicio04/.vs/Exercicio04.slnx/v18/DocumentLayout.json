@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\c#\\exercicios\\Exercicio04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F55F2-1082-5B4A-B54A-C012A2DC60E7}|Exercicio04.csproj|c:\\temp\\c#\\exercicios\\exercicio04\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F55F2-1082-5B4A-B54A-C012A2DC60E7}|Exercicio04.csproj|solutionrelative:media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F55F2-1082-5B4A-B54A-C012A2DC60E7}|Exercicio04.csproj|c:\\temp\\c#\\exercicios\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F55F2-1082-5B4A-B54A-C012A2DC60E7}|Exercicio04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T20:43:32.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio04\\Media.cs",
+              "RelativeDocumentMoniker": "Media.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio04\\Media.cs",
+              "RelativeToolTip": "Media.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T20:43:49.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
