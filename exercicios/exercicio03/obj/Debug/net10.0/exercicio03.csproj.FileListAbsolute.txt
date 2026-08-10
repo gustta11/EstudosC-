@@ -1,0 +1,14 @@
+C:\temp\c#\exercicio03\bin\Debug\net10.0\exercicio03.exe
+C:\temp\c#\exercicio03\bin\Debug\net10.0\exercicio03.deps.json
+C:\temp\c#\exercicio03\bin\Debug\net10.0\exercicio03.runtimeconfig.json
+C:\temp\c#\exercicio03\bin\Debug\net10.0\exercicio03.dll
+C:\temp\c#\exercicio03\bin\Debug\net10.0\exercicio03.pdb
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.AssemblyInfoInputs.cache
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.AssemblyInfo.cs
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.dll
+C:\temp\c#\exercicio03\obj\Debug\net10.0\refint\exercicio03.dll
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.pdb
+C:\temp\c#\exercicio03\obj\Debug\net10.0\exercicio03.genruntimeconfig.cache
+C:\temp\c#\exercicio03\obj\Debug\net10.0\ref\exercicio03.dll

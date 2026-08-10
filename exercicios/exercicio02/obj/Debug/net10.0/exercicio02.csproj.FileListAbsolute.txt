@@ -1,0 +1,14 @@
+C:\temp\c#\exercicio02\bin\Debug\net10.0\exercicio02.exe
+C:\temp\c#\exercicio02\bin\Debug\net10.0\exercicio02.deps.json
+C:\temp\c#\exercicio02\bin\Debug\net10.0\exercicio02.runtimeconfig.json
+C:\temp\c#\exercicio02\bin\Debug\net10.0\exercicio02.dll
+C:\temp\c#\exercicio02\bin\Debug\net10.0\exercicio02.pdb
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.AssemblyInfoInputs.cache
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.AssemblyInfo.cs
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.csproj.CoreCompileInputs.cache
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.dll
+C:\temp\c#\exercicio02\obj\Debug\net10.0\refint\exercicio02.dll
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.pdb
+C:\temp\c#\exercicio02\obj\Debug\net10.0\exercicio02.genruntimeconfig.cache
+C:\temp\c#\exercicio02\obj\Debug\net10.0\ref\exercicio02.dll
