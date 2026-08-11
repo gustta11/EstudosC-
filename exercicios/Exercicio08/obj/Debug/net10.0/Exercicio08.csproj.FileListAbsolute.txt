@@ -1,0 +1,15 @@
+C:\temp\EstudosC-\exercicios\Exercicio08\bin\Debug\net10.0\Exercicio08.exe
+C:\temp\EstudosC-\exercicios\Exercicio08\bin\Debug\net10.0\Exercicio08.deps.json
+C:\temp\EstudosC-\exercicios\Exercicio08\bin\Debug\net10.0\Exercicio08.runtimeconfig.json
+C:\temp\EstudosC-\exercicios\Exercicio08\bin\Debug\net10.0\Exercicio08.dll
+C:\temp\EstudosC-\exercicios\Exercicio08\bin\Debug\net10.0\Exercicio08.pdb
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.AssemblyInfoInputs.cache
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.AssemblyInfo.cs
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.csproj.CoreCompileInputs.cache
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.sourcelink.json
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.dll
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\refint\Exercicio08.dll
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.pdb
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\Exercicio08.genruntimeconfig.cache
+C:\temp\EstudosC-\exercicios\Exercicio08\obj\Debug\net10.0\ref\Exercicio08.dll
