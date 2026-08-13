@@ -1,0 +1,14 @@
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\bin\Debug\net10.0\Exercicio09.exe
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\bin\Debug\net10.0\Exercicio09.deps.json
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\bin\Debug\net10.0\Exercicio09.runtimeconfig.json
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\bin\Debug\net10.0\Exercicio09.dll
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\bin\Debug\net10.0\Exercicio09.pdb
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.AssemblyInfoInputs.cache
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.AssemblyInfo.cs
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.dll
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\refint\Exercicio09.dll
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.pdb
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\Exercicio09.genruntimeconfig.cache
+C:\Users\gustavo.souza\source\repos\Exercicio09\Exercicio09\obj\Debug\net10.0\ref\Exercicio09.dll

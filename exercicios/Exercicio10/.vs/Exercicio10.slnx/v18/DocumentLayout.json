@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavo.souza\\source\\repos\\Exercicio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF63E63A-12FA-4872-97AC-0AD16AA60ED4}|Exercicio10\\Exercicio10.csproj|c:\\users\\gustavo.souza\\source\\repos\\exercicio10\\exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF63E63A-12FA-4872-97AC-0AD16AA60ED4}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF63E63A-12FA-4872-97AC-0AD16AA60ED4}|Exercicio10\\Exercicio10.csproj|c:\\users\\gustavo.souza\\source\\repos\\exercicio10\\exercicio10\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF63E63A-12FA-4872-97AC-0AD16AA60ED4}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.souza\\source\\repos\\Exercicio10\\Exercicio10\\Conversao.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Conversao.cs",
+              "ToolTip": "C:\\Users\\gustavo.souza\\source\\repos\\Exercicio10\\Exercicio10\\Conversao.cs",
+              "RelativeToolTip": "Exercicio10\\Conversao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T19:50:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.souza\\source\\repos\\Exercicio10\\Exercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavo.souza\\source\\repos\\Exercicio10\\Exercicio10\\Program.cs",
+              "RelativeToolTip": "Exercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T19:25:07.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
