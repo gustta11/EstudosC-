@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\c#\\exercicios\\Exercicio16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|c:\\temp\\c#\\exercicios\\exercicio16\\exercicio16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|solutionrelative:exercicio16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|c:\\temp\\c#\\exercicios\\exercicio16\\exercicio16\\pagamentofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|solutionrelative:exercicio16\\pagamentofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|c:\\temp\\c#\\exercicios\\exercicio16\\exercicio16\\pagamentoconsultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|solutionrelative:exercicio16\\pagamentoconsultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|c:\\temp\\c#\\exercicios\\exercicio16\\exercicio16\\pagamentofreelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|solutionrelative:exercicio16\\pagamentofreelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|c:\\temp\\c#\\exercicios\\exercicio16\\exercicio16\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D9665F-45EA-49B4-AA7D-B5F520C5438C}|Exercicio16\\Exercicio16.csproj|solutionrelative:exercicio16\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentoConsultor.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\PagamentoConsultor.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\PagamentoConsultor.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\PagamentoConsultor.cs*",
+              "RelativeToolTip": "Exercicio16\\PagamentoConsultor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T15:47:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoFreelancer.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\PagamentoFreelancer.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\PagamentoFreelancer.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\PagamentoFreelancer.cs*",
+              "RelativeToolTip": "Exercicio16\\PagamentoFreelancer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T15:47:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagamentoFuncionario.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\PagamentoFuncionario.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\PagamentoFuncionario.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\PagamentoFuncionario.cs*",
+              "RelativeToolTip": "Exercicio16\\PagamentoFuncionario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T15:46:22.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ipagamento.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\Ipagamento.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\Ipagamento.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\Ipagamento.cs*",
+              "RelativeToolTip": "Exercicio16\\Ipagamento.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T15:43:55.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\Program.cs",
+              "ToolTip": "C:\\Temp\\c#\\exercicios\\Exercicio16\\Exercicio16\\Program.cs*",
+              "RelativeToolTip": "Exercicio16\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T15:38:35.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

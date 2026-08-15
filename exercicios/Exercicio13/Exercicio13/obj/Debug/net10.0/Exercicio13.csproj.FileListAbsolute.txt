@@ -1,0 +1,15 @@
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\bin\Debug\net10.0\Exercicio13.exe
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\bin\Debug\net10.0\Exercicio13.deps.json
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\bin\Debug\net10.0\Exercicio13.runtimeconfig.json
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\bin\Debug\net10.0\Exercicio13.dll
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\bin\Debug\net10.0\Exercicio13.pdb
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.AssemblyInfoInputs.cache
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.AssemblyInfo.cs
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.csproj.CoreCompileInputs.cache
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.sourcelink.json
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.dll
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\refint\Exercicio13.dll
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.pdb
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\Exercicio13.genruntimeconfig.cache
+C:\Temp\c#\exercicios\Exercicio13\Exercicio13\obj\Debug\net10.0\ref\Exercicio13.dll
