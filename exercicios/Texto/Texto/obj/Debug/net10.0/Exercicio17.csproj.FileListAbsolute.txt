@@ -1,0 +1,15 @@
+C:\Temp\c#\exercicios\Texto\Texto\bin\Debug\net10.0\Exercicio17.exe
+C:\Temp\c#\exercicios\Texto\Texto\bin\Debug\net10.0\Exercicio17.deps.json
+C:\Temp\c#\exercicios\Texto\Texto\bin\Debug\net10.0\Exercicio17.runtimeconfig.json
+C:\Temp\c#\exercicios\Texto\Texto\bin\Debug\net10.0\Exercicio17.dll
+C:\Temp\c#\exercicios\Texto\Texto\bin\Debug\net10.0\Exercicio17.pdb
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.AssemblyInfoInputs.cache
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.AssemblyInfo.cs
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.sourcelink.json
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.dll
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\refint\Exercicio17.dll
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.pdb
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\Exercicio17.genruntimeconfig.cache
+C:\Temp\c#\exercicios\Texto\Texto\obj\Debug\net10.0\ref\Exercicio17.dll
