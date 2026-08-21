@@ -1,0 +1,15 @@
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\bin\Debug\net10.0\exercicios02.exe
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\bin\Debug\net10.0\exercicios02.deps.json
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\bin\Debug\net10.0\exercicios02.runtimeconfig.json
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\bin\Debug\net10.0\exercicios02.dll
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\bin\Debug\net10.0\exercicios02.pdb
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.AssemblyInfoInputs.cache
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.AssemblyInfo.cs
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.csproj.CoreCompileInputs.cache
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.sourcelink.json
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.dll
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\refint\exercicios02.dll
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.pdb
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\exercicios02.genruntimeconfig.cache
+C:\temp\EstudosC-\exerciciosLogica\exercicios02\exercicios02\obj\Debug\net10.0\ref\exercicios02.dll

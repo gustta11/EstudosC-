@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\EstudosC-\\exerciciosLogica\\exercicios05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E2A48B-9127-441B-B8D4-4C9085403B65}|exercicios05\\exercicios05.csproj|c:\\temp\\estudosc-\\exercicioslogica\\exercicios05\\exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E2A48B-9127-441B-B8D4-4C9085403B65}|exercicios05\\exercicios05.csproj|solutionrelative:exercicios05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\EstudosC-\\exerciciosLogica\\exercicios05\\exercicios05\\Program.cs",
+              "RelativeDocumentMoniker": "exercicios05\\Program.cs",
+              "ToolTip": "C:\\temp\\EstudosC-\\exerciciosLogica\\exercicios05\\exercicios05\\Program.cs",
+              "RelativeToolTip": "exercicios05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T13:22:54.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
