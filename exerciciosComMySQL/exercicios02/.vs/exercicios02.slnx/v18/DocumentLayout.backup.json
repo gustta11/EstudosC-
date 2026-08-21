@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775D23E2-4937-4EB2-9FEF-8FD7F76B9767}|exercicios02\\exercicios02.csproj|c:\\temp\\c#\\exercicioscommysql\\exercicios02\\exercicios02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775D23E2-4937-4EB2-9FEF-8FD7F76B9767}|exercicios02\\exercicios02.csproj|solutionrelative:exercicios02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775D23E2-4937-4EB2-9FEF-8FD7F76B9767}|exercicios02\\exercicios02.csproj|c:\\temp\\c#\\exercicioscommysql\\exercicios02\\exercicios02\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775D23E2-4937-4EB2-9FEF-8FD7F76B9767}|exercicios02\\exercicios02.csproj|solutionrelative:exercicios02\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775D23E2-4937-4EB2-9FEF-8FD7F76B9767}|exercicios02\\exercicios02.csproj|c:\\temp\\c#\\exercicioscommysql\\exercicios02\\exercicios02\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775D23E2-4937-4EB2-9FEF-8FD7F76B9767}|exercicios02\\exercicios02.csproj|solutionrelative:exercicios02\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\exercicios02\\Carro.cs",
+              "RelativeDocumentMoniker": "exercicios02\\Carro.cs",
+              "ToolTip": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\exercicios02\\Carro.cs",
+              "RelativeToolTip": "exercicios02\\Carro.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T00:09:20.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\exercicios02\\Conexao.cs",
+              "RelativeDocumentMoniker": "exercicios02\\Conexao.cs",
+              "ToolTip": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\exercicios02\\Conexao.cs",
+              "RelativeToolTip": "exercicios02\\Conexao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T23:53:13.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\exercicios02\\Program.cs",
+              "RelativeDocumentMoniker": "exercicios02\\Program.cs",
+              "ToolTip": "C:\\Temp\\c#\\exerciciosComMySQL\\exercicios02\\exercicios02\\Program.cs*",
+              "RelativeToolTip": "exercicios02\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T23:49:29.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
